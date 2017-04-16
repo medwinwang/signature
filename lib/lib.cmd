@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=fdd_sdk_2_5_1.jar -DgroupId=com.fdd -DartifactId=fdd-sdk -Dversion=2.5.1 -Dpackaging=jar
